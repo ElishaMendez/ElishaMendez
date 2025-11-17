@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hey there
 
-<!--
-**ElishaMendez/ElishaMendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Eli, a senior at the University of Central Florida finishing up my B.G.S. in General Studies with a Minor in Health Administration. 
+I also have a strong background in pharmacy operations and scheduling analysis, and I’m working toward becoming a healthcare analyst.
 
-Here are some ideas to get you started:
+The projects I enjoy working on are workflow & Healthcare Ops: Scheduling, inventory, and all things Data Analytics
+What I’m Currently Working On is building my skills in SQL, Excel, and Power BI & Learning how to use GitHub to share and track my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also putting together a portfolio website (coming soon)
+
+## Tools I Use
+
+- Data & Analytics: SQL, Excel, Power BI
+- Dev Tools: Git, GitHub, VS Code
+
+## How to Reach Me
+
+- LinkedIn: [(your link here)](https://www.linkedin.com/in/elishamendez/)
+- Portfolio: Coming soon!
