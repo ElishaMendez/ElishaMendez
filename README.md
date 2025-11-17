@@ -15,5 +15,5 @@ I'm also putting together a portfolio website (coming soon)
 
 ## How to Reach Me
 
-- LinkedIn: [(https://www.linkedin.com/in/elishamendez/)]
+- LinkedIn: https://www.linkedin.com/in/elishamendez/
 - Portfolio: Coming soon!
