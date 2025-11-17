@@ -4,7 +4,7 @@ I’m Eli, a senior at the University of Central Florida finishing up my B.G.S. 
 I also have a strong background in pharmacy operations and scheduling analysis, and I’m working toward becoming a healthcare analyst.
 
 The projects I enjoy working on are workflow are Healthcare Ops: Scheduling, inventory, and all things Data Analytics
-What I’m Currently Working On is building my skills in SQL, Excel, Tableu & Learning how to use GitHub to share and track my projects
+What I’m Currently Working On is building my skills in SQL, Excel, Tableu & learning how to use GitHub to share and track my projects
 
 I'm also putting together a portfolio website (coming soon)
 
