@@ -1,19 +1,10 @@
-## 👋 Hey there
+## 👋 Hey, I’m Eli
 
-I’m Eli, a senior at the University of Central Florida finishing up my B.G.S. in General Studies with a Minor in Health Administration. 
-I also have a strong background in pharmacy operations and scheduling analysis, and I’m working toward becoming a healthcare analyst.
+I’m a senior at the University of Central Florida finishing my B.G.S. in General Studies with a Minor in Health Administration. I have a strong background in pharmacy operations and scheduling analysis, and I’m working toward becoming a healthcare analyst.
+I’m especially interested in healthcare operations—workflow optimization, scheduling, inventory management, and anything that involves data analytics.
 
-The projects I enjoy working on are workflow are Healthcare Ops: Scheduling, inventory, and all things Data Analytics
-What I’m Currently Working On is building my skills in SQL, Excel, Tableu & learning how to use GitHub to share and track my projects
+## 🔧 What I’m Currently Working On
+I’m building my skills in SQL, Excel, Tableau, and Power BI, and learning how to use GitHub to share and track the projects I’m creating along the way.
 
-I'm also putting together a portfolio website (coming soon)
-
-## Tools I Use
-
-- Data & Analytics: SQL, Excel, Power BI
-- Dev Tools: Git, GitHub, VS Code
-
-## How to Reach Me
-
-- LinkedIn: https://www.linkedin.com/in/elishamendez/
-- Portfolio: Coming soon!
+## 🌐 Coming Soon
+I’m also working on a personal portfolio website where I’ll showcase my projects and experience.
