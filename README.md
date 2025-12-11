@@ -7,4 +7,4 @@ I’m especially interested in healthcare operations—workflow optimization, sc
 I’m building my skills in SQL, Excel, Tableau, and Power BI, and learning how to use GitHub to share and track the projects I’m creating along the way.
 
 ## Portfolio Website
-[I’m also working on a personal portfolio website where I’ll showcase my projects and experience.](https://elishamendez.github.io/Portfolio2/#work)
+[Link here!](https://elishamendez.github.io/Portfolio2/#work)
